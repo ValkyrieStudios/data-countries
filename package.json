@@ -1,0 +1,24 @@
+{
+  "name": "@valkyriestudios/data-countries",
+  "version": "0.1.0",
+  "description": "Countries Data Pack",
+  "author": {
+    "name": "Peter Vermeulen",
+    "email": "contact@valkyriestudios.com",
+    "url": "www.valkyriestudios.be"
+  },
+  "keywords": [
+    "data",
+    "json",
+    "countries"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValkyrieStudios/data-countries.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ValkyrieStudios/data-countries/issues"
+  },
+  "homepage": "https://github.com/ValkyrieStudios/data-countries#readme"
+}
